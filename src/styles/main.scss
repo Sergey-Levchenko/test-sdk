@@ -1,0 +1,20 @@
+@import './fonts.scss';
+@import './reboot.scss';
+@import '~normalize.css';
+
+html {
+  font-size: 10px;
+}
+body,
+html {
+  position: relative;
+  font-family: 'Product Sans';
+  font-weight: 500;
+  padding: 0;
+  margin: 0;
+  // font-size: 1.6em;
+}
+h2 {
+  font-weight: bold;
+  font-size: 24px;
+}
